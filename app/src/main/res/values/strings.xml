@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Example_fin</string>
+    <string name="empleado">Empleado</string>
+    <string name="salario">Salario</string>
+    <string name="horasExtra">Horas Extra</string>
+    <string name="valorhora">Valor Hr.Ex</string>
+    <string name="pension">Pensiòn</string>
+    <string name="salud">Salud</string>
+    <string name="salariototal">Salario total</string>
+    <string name="salariominimo">Salario Minimo</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="btncalcular">Calcular</string>
+</resources>
